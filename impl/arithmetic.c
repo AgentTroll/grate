@@ -1,3 +1,5 @@
+#include "../lib/arithmetic.h"
+
 #ifdef __cplusplus
 extern "C" {
 #endif
