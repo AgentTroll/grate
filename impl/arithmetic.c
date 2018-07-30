@@ -1,9 +1,8 @@
-#include "../lib/arithmetic.h"
-
 #ifdef __cplusplus
 extern "C" {
 #endif
-
+    
+#include "../lib/arithmetic.h"
 #include <stdio.h>
 
 int add(int a, int b) {
