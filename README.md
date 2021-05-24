@@ -9,7 +9,7 @@ Divided into two projects: `c_grate` for C implementation and `cpp_grate` for "p
 You may download the executables from the releases page, or build it yourself.
 
 ``` shell
-git clone https://github.com/AgentTroll/grate.git
+git clone https://github.com/caojohnny/grate.git
 cd grate
 mkdir build
 cd build
